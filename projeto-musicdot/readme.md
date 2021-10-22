@@ -10,3 +10,16 @@
 
  Capitulo 6 Exercicio: A Especificação HTML
  
+ Capitulo 7 Estilizando Com CSS
+
+ Capitulo 8 Exercicio: Mudando o Visual da Nossa Pagina
+
+ Capitulo 9 Espaçamento e Dimensões
+
+ Capitulo 10 Exercicios: Trabalhando com Tamanhos e Espaçamento
+
+ Capitulo 11 Listas HTML
+
+ CAPÍTULO 12 EXERCÍCIO: USANDO LINKS E LISTAS 
+
+ 
