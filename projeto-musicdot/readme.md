@@ -22,4 +22,22 @@
 
  CAPÍTULO 12 EXERCÍCIO: USANDO LINKS E LISTAS 
 
+ Capitulo 13 Seletores Mais Específicos e Herança
+
+ Capitulo 14 Exercício: Seelecionando Elementos Mais Especificos e Herança
+
+ Capitulo 15 Desacoplamento Com Classes
+
+ Capitulo 16 Exercício: Usando Classes Para Evitar Acoplamento de Estilos
+
+ Capitulo 17 Elementos Estruturais e Semantica Dos Elementos
+
+ Capitulo 18 Exercício: Semantica Em Primeiro Lugar
+
+ Capitulo 19 Conhecendo Padrões De CSS
+
+ Capitulo 20 Exercicio: Treinando Display E Nomenclatura de Classes 
+
+ 
+
  
