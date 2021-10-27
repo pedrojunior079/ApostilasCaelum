@@ -2,6 +2,7 @@
 <html lang="pr-br">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
     <title>
         MusicDot | Sobre a Empresa
     </title>
@@ -85,10 +86,11 @@
 
     <h2 class="titulo">Contato</h2>
 
-    <h3 class="contato__subtitulo">Correspondencia</h3>
-    <small>(todos os dias, das 9 as 18h)</small>
+   <div class="contato__secao">
+     <h3 class="contato__subtitulo">Correspondencia</h3>
+     <small>(todos os dias, das 9 as 18h)</small>
 
-    <address class="contato__info">
+     <address class="contato__info">
        AOVS Sistemas de Informatica S.A
        <br>
        Rua Verqueiro, 3185, 8o andar
@@ -96,17 +98,26 @@
        Vila Mariana
        <br>
        São Paulo - SP
-    </address>
+     </address>
+   </div>  
 
-    <h3 class="contato__subtitulo">Telefones</h3>
-    <small>(segunda a sexya, das 9h as 18h)</small>
+   <div class="contato__secao contato__secao--telefone">  
+      <h3 class="contato__subtitulo">Telefones</h3>
+      <small>(segunda a sexta, das 9h as 18h)</small>
 
-    <dl class="contato__info">
-       <dt>Pessoa Física:</dt>
-       <dd><a href="tel://114118-3319">(11) 4118-3319</a></dd>
+     <dl class="contato__info">
+        <dt class="contato__info-titulo">Pessoa Física:</dt>
+        <dd class="contato__info-descricao"><a href="tel://114118-3319">(11) 4118-3319</a></dd>
        
-       <dt>Pessoa Jurídica:</dt>
-       <dd><a href="tel//114118-2172">(11) 4118-2172</a></dd>
-    </dl>
+        <dt class="contato__info-titulo">Pessoa Jurídica:</dt>
+        <dd class="contato__info-descricao"><a href="tel//114118-2172">(11) 4118-2172</a></dd>
+     </dl>
+   </div>
+   
+   <footer>
+      <img src="img/logo.svg" alt="Logo da musicdot" class="rodape__logo">
+      <p class="rodape__copyright">&copy; Copyright MusicDot</p>
+   </footer>
+
 </body>
 </html>

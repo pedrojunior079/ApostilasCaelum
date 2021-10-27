@@ -38,6 +38,23 @@
 
  Capitulo 20 Exercicio: Treinando Display E Nomenclatura de Classes 
 
+ Capitulo 21 Exercício: Um Pouco Sobre Estilização Com Blocos
+
+ Capitulo 22 Exercicio: Modificadores
+
+ Capitulo 23 Unidades Relativas Com EM e REM
+
+ Capitulo 24 Exercício: Medidas Relativas EM e REM
+
+ Capitulo 25 Site Mobile ou Mesmo Site?
+
+ Capitulo 26 Exercício: Responsividade Com Viewport E Unidades Relativas
+
+ Capitulo 27 Exercício: Responsividade Com '@Média'
+
  
+
+
+
 
  
