@@ -56,7 +56,13 @@
 
  Capitulo 29 Exercício: Estrutura Da Página Principal E O Cabeçaçlho 
 
+ Capitulo 30 Estabilizando O Header da Home
 
+ Capitulo 31: Exercício: Começando A Estilizar O 'Header' Da Home
 
+ Capitulo 32 Progressive Enhancement 
 
+ Capitulo 33 Exercício: Progressive Enhancement
+ 
+  
  
