@@ -52,7 +52,9 @@
 
  Capitulo 27 Exercício: Responsividade Com '@Média'
 
- 
+ Capitulo 28 O Processo De Desenvovimento De Uma Tela
+
+ Capitulo 29 Exercício: Estrutura Da Página Principal E O Cabeçaçlho 
 
 
 
