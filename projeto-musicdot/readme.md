@@ -54,7 +54,7 @@
 
  Capitulo 28 O Processo De Desenvovimento De Uma Tela
 
- Capitulo 29 Exercício: Estrutura Da Página Principal E O Cabeçaçlho 
+ Capitulo 29 Exercício: Estrutura Da Página Principal E O Cabeçalho 
 
  Capitulo 30 Estabilizando O Header da Home
 
@@ -64,5 +64,23 @@
 
  Capitulo 33 Exercício: Progressive Enhancement
  
-  
+ Capitulo 34 Display Flex
+
+ Capitulo 35 Exercício: Novos Layouts Com Flexbox
+
+ Capitulo 36 Exercício: Novos Layouts Com Flexbox B
+
+ Capitulo 37 Resposividade E Fallback 
+
+ Capitulo 38 Exercício: Responsividade E Fallback
+
+ Capitulo 39 Exercício: Desafio: Crie O HTML Do Rodapé
+
+ Capitulo 40 Exercício: Conteúdo Rodapé
+
+ Capitulo 41 Exercício: Espaçamento O Conteudo Do Rodapé
+             Os Detalhes Nas Entrelinhas E Margens
+
+             
+
  
