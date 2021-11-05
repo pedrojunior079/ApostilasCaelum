@@ -81,6 +81,21 @@
  Capitulo 41 Exercício: Espaçamento O Conteudo Do Rodapé
              Os Detalhes Nas Entrelinhas E Margens
 
+ Capitulo 42 Exercício: O Formulário De Newsletter do Rodapé
+
+ Capitulo 43 Exercício: Embaralhando Os Items Do Rodapé Em 
+             Telas Maiores Com Flexbox
+
+ Capitulo 44 Exercício: Rodapé Em Telas Grandes Sem Sobrescrever
+             Tudo O Que Veio Antes
+
+ Capitulo 45 Exercício: O Componente Conteiner
+
+ Capitulo 46 Display: GRID
+
+ Capitulo 47 Exercicios: Conteúdo Principal - A Vitrine De
+             Cursos
              
+                                                  
 
  
