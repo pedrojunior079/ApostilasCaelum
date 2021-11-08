@@ -96,6 +96,9 @@
  Capitulo 47 Exercicios: Conteúdo Principal - A Vitrine De
              Cursos
              
-                                                  
+ Capitulo 48 Exercício: Conteúdo Principal
+
+ Capitulo 49 Exercício: Conteúdo Principal
+             (Opcional) - Os Planos                                                 
 
  
