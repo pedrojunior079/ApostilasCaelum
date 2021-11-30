@@ -1,42 +1,42 @@
- Curso da apostila de HTML CSS e Javascript 
+ <h2>Curso da apostila de HTML CSS e Javascript</h2> 
 
- Capitulo 2 Exercicios: Baixando os arquivos do curso
+ <p>Capitulo 2 Exercicios: Baixando os arquivos do curso<p>
 
- Capitulo 3 Introdução ao HTML 
+ <p>Capitulo 3 Introdução ao HTML</p> 
 
- Capitulo 4 Exercicio: Primeiros Passos Com HTML
+ <p>Capitulo 4 Exercicio: Primeiros Passos Com HTML</p>
 
- Capitulo 5 Estrutura de Um Documento HTML
+ <p>Capitulo 5 Estrutura de Um Documento HTML</p>
 
- Capitulo 6 Exercicio: A Especificação HTML
+ <p>Capitulo 6 Exercicio: A Especificação HTML</p>
  
- Capitulo 7 Estilizando Com CSS
+ <p>Capitulo 7 Estilizando Com CSS</p>
 
- Capitulo 8 Exercicio: Mudando o Visual da Nossa Pagina
+ <p>Capitulo 8 Exercicio: Mudando o Visual da Nossa Pagina</p>
 
- Capitulo 9 Espaçamento e Dimensões
+ <p>Capitulo 9 Espaçamento e Dimensões</p>
 
- Capitulo 10 Exercicios: Trabalhando com Tamanhos e Espaçamento
+ <p>Capitulo 10 Exercicios: Trabalhando com Tamanhos e Espaçamento</p>
 
- Capitulo 11 Listas HTML
+ <p>Capitulo 11 Listas HTML</p>
 
- CAPÍTULO 12 EXERCÍCIO: USANDO LINKS E LISTAS 
+ <p>CAPÍTULO 12 EXERCÍCIO: USANDO LINKS E LISTAS</p> 
 
- Capitulo 13 Seletores Mais Específicos e Herança
+ <p>Capitulo 13 Seletores Mais Específicos e Herança</p>
 
- Capitulo 14 Exercício: Seelecionando Elementos Mais Especificos e Herança
+ <p>Capitulo 14 Exercício: Seelecionando Elementos Mais Especificos e Herança</p>
 
- Capitulo 15 Desacoplamento Com Classes
+ <p>Capitulo 15 Desacoplamento Com Classes</p>
 
- Capitulo 16 Exercício: Usando Classes Para Evitar Acoplamento de Estilos
+ <p>Capitulo 16 Exercício: Usando Classes Para Evitar Acoplamento de Estilos</p>
 
- Capitulo 17 Elementos Estruturais e Semantica Dos Elementos
+ <p>Capitulo 17 Elementos Estruturais e Semantica Dos Elementos<p>
 
- Capitulo 18 Exercício: Semantica Em Primeiro Lugar
+ <p>Capitulo 18 Exercício: Semantica Em Primeiro Lugar</p>
 
- Capitulo 19 Conhecendo Padrões De CSS
+ <p>Capitulo 19 Conhecendo Padrões De CSS</p>
 
- Capitulo 20 Exercicio: Treinando Display E Nomenclatura de Classes 
+ <p>Capitulo 20 Exercicio: Treinando Display E Nomenclatura de Classes</p> 
 
  Capitulo 21 Exercício: Um Pouco Sobre Estilização Com Blocos
 
@@ -103,6 +103,11 @@
 
  Capitulo 50 Exercícios: Conteudo Principal
              Os Beneficios
+
+ Capitulo 51 Exercício: Conteúdo Principal 
+             (Opcional) - Chamada Youtube
+             
+                         
 
              
 
