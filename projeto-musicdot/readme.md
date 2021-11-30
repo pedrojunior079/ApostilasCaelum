@@ -38,7 +38,7 @@
 
  <p>Capitulo 20 Exercicio: Treinando Display E Nomenclatura de Classes</p> 
 
- Capitulo 21 Exercício: Um Pouco Sobre Estilização Com Blocos
+ <p>Capitulo 21 Exercício: Um Pouco Sobre Estilização Com Blocos</p>
 
  Capitulo 22 Exercicio: Modificadores
 
@@ -106,7 +106,27 @@
 
  Capitulo 51 Exercício: Conteúdo Principal 
              (Opcional) - Chamada Youtube
-             
+
+ Capitulo 52 Exercício: Conteúdo Principal - 
+             Chamada Dos Aplicativos
+
+ Capitulo 53 Bootstrap E Frameworks De CSS
+
+ Capitulo 54 Exercicio: Primeiros Passos Com Bootstrap
+
+ Capitulo 55 Exercício: Customizando o Bootstrap(Opcional)
+
+ Capitulo 56 Exercício: A Tabela De Cursos
+
+ Capitulo 57 Um Pouquinho Da Historia Do JavaScript
+
+ Capitulo 58 Calculando Total De Horas E Cursos Com JavaScript
+
+ Capitulo 59 Propriedades CSS
+
+ Apostila concluida  
+
+                         
                          
 
              
