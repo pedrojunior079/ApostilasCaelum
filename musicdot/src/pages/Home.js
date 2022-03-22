@@ -1,10 +1,10 @@
 import React from 'react';
 
-
+import styles from "./Home.module.css";
 
 const Home = () =>{
   return (
-    <div>
+    <section className={styles.home_container}>
       <h1>MusicDot</h1>
       <h2>Bem-vindo a MusicDot, seu portal de cursos de musicas online.</h2>
       <nav>
@@ -15,7 +15,7 @@ const Home = () =>{
           <li>Aprenda sem sair de casa.</li>
         </ul>
       </nav>
-    </div>
+    </section>
   );
 }
 
